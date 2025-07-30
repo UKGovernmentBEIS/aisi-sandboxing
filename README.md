@@ -58,5 +58,5 @@ Report issues or contribute: Please submit issues or pull requests to this repos
 
 Questions: Join the Inspect community on Slack <link>
 
-If you discover security vulnerabilities, please report them responsibly to jason.gwartz@dsit.gov.uk 
+If you discover security vulnerabilities, please report them responsibly to <TBD>
 
